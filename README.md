@@ -1,2 +1,6 @@
-# Movie-DB-App---React
-Movie DB App - React
+# Movie DB Test App
+
+## Installation
+> npm install
+> npm start
+
