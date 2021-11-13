@@ -1,4 +1,3 @@
-import { NumberLiteralType } from "typescript";
 import {
   SEARCH_BASE_URL,
   POPULAR_BASE_URL,
